@@ -1,9 +1,8 @@
-# Experiment 10(a): AVL Tree
+# Ex.No:10B AVL Tree
 
 ## Aim
 To write a Python program to construct an AVL tree and print the nodes of it using the appropriate packages and built-in functions.
 
----
 
 ## Algorithm
 
@@ -16,7 +15,6 @@ To write a Python program to construct an AVL tree and print the nodes of it usi
 5. Call `Construct_AVL(L)` to build the tree and print the result.
 6. End the program.
 
----
 
 ## Program
 
