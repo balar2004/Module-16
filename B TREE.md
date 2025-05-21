@@ -1,9 +1,7 @@
-# Experiment 10(c): B Tree
+# Ex.No:10C B Tree
 
 ## Aim
 To write a Python function `def insert(self, k)` to insert nodes in a B Tree.
-
----
 
 ## Algorithm
 
@@ -17,7 +15,6 @@ To write a Python function `def insert(self, k)` to insert nodes in a B Tree.
 8. Run the program to insert keys and display the tree.
 9. End the program.
 
----
 
 ## Program
 
