@@ -1,9 +1,8 @@
-# Experiment 10(e): AVL Tree - Left Rotation
+# Ex.No:10A AVL Tree - Left Rotation
 
 ## Aim
 To write a Python function `def leftRotate(self, z)` to perform the left rotation operation in an AVL Tree. Additionally, insert '7' into the existing AVL Tree and perform the necessary rotations to balance it.
 
----
 
 ## Algorithm
 
@@ -26,7 +25,6 @@ To write a Python function `def leftRotate(self, z)` to perform the left rotatio
 5. Insert the key '7' using the `insert()` method. If it causes an imbalance, perform the appropriate rotation.
 6. Display the AVL Tree structure after insertion and rotations using preOrder traversal.
 
----
 
 ## Program
 
