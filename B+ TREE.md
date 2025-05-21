@@ -1,9 +1,7 @@
-# Experiment 10(d): B+ Tree
+# Ex.No:10D B+ Tree
 
 ## Aim
 To write a Python function `def insert(self, k)` to insert nodes in a B+ Tree.
-
----
 
 ## Algorithm
 
@@ -13,7 +11,6 @@ To write a Python function `def insert(self, k)` to insert nodes in a B+ Tree.
 4. In the `retrieve()` method, search for a key in the tree and return its associated values.
 5. Call `demo_node()` and `demo_bplustree()` to demonstrate the creation, insertion, and splitting of nodes in the tree and show the structure of the B+ Tree.
 
----
 
 ## Program
 
