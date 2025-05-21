@@ -1,9 +1,7 @@
-# Experiment 10(b): Balancing AVL Tree
+# Ex.No:10E Balancing AVL Tree
 
 ## Aim
 To write a Python program to construct an AVL tree, balance it, and print the nodes of the tree before and after balancing using the appropriate packages and built-in functions.
-
----
 
 ## Algorithm
 
@@ -17,8 +15,6 @@ To write a Python program to construct an AVL tree, balance it, and print the no
 4. Create a list `L` of integers.
 5. Call `Construct_AVL(L)` to build and balance the tree.
 6. End the program.
-
----
 
 ## Program
 
